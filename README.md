@@ -1,8 +1,4 @@
-# BÁO CÁO BÀI TẬP LÝ THUYẾT LẬP TRÌNH C# & .NET CORE
-
----
-
-## CÂU 1: PHÂN BIỆT VALUE TYPES VÀ REFERENCE TYPES (STACK VS HEAP)
+ CÂU 1: PHÂN BIỆT VALUE TYPES VÀ REFERENCE TYPES (STACK VS HEAP)
 
 Trong kiến trúc thực thi của .NET Common Language Runtime (CLR), mọi kiểu dữ liệu đều kế thừa từ lớp gốc `System.Object`. Tuy nhiên, cơ chế quản lý vòng đời và cấp phát bộ nhớ được chia thành hai nhóm riêng biệt: **Value Types** (Kiểu giá trị) và **Reference Types** (Kiểu tham chiếu).
 
